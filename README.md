@@ -49,9 +49,11 @@ Tip: Pin the repos above on your GitHub profile to make them visible on your mai
 - Email: [mancenidowilliamv@gmail.com]
 - Website / Portfolio: https://william3164.wordpress.com
 - https://william3164.my.canva.site/greeting
-- Facebook Messenger: messenger.com/@m.me
+- Facebook Messenger: https://messenger.com/@m.me
 - 
 - Youtube: https://www.youtube.com/@WilliamFamily-1938
+- Youtube: https://www.youtube.com/@WilliamFamily-1922
+- Youtube: https://www.youtube.com/@WilliamFamily-1964
 
 ---
 
@@ -62,7 +64,7 @@ Tip: Pin the repos above on your GitHub profile to make them visible on your mai
 
 ## 🤝 How to Work With Me
 - Open to: freelance, full-time, contract, mentorship — specify your preferences
-- Best ways to reach me: email or LinkedIn (links above)
+- Best ways to reach me: email me or Private Messaging(links above)
 - Collaboration style: clear goals, frequent checkpoints, and practical documentation
 
 ---
