@@ -1,4 +1,4 @@
-# Hi, I'm willget! 👋
+# Hi, I'm Will 👋
 
 > Building useful things with code, design, and curiosity.
 
@@ -6,11 +6,11 @@ I’m a builder who loves solving real problems with thoughtful software. This R
 
 ---
 
-## 🔭 About Me
-- Role: **[Your profession — e.g., Software Engineer, Product Designer, Data Scientist]**
+## 🔭 My Short BioLink
+- Role: **[Freelance Website Design Editor, , Product Researcher, Data Researcher]**
 - Location: **[City, Country or Remote]**
 - Interests: **[Short list — e.g., web platforms, developer tools, machine learning]**
-- Pronouns: **[optional]**
+- Pronouns: **[individual/private]**
 
 I focus on shipping reliable, maintainable systems and delightful user experiences. I love pairing technical depth with pragmatic product thinking.
 
