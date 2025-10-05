@@ -1,2 +1,73 @@
-# my.canva.site/greeting
-For my personal research
+# Hi, I'm willget! 👋
+
+> Building useful things with code, design, and curiosity.
+
+I’m a builder who loves solving real problems with thoughtful software. This README is a living profile — meant to showcase who I am, what I build, and how we can work together. Replace the placeholders below with your details to make it yours.
+
+---
+
+## 🔭 About Me
+- Role: **[Your profession — e.g., Software Engineer, Product Designer, Data Scientist]**
+- Location: **[City, Country or Remote]**
+- Interests: **[Short list — e.g., web platforms, developer tools, machine learning]**
+- Pronouns: **[optional]**
+
+I focus on shipping reliable, maintainable systems and delightful user experiences. I love pairing technical depth with pragmatic product thinking.
+
+---
+
+## 🚀 What I Do
+- Build: modern web apps, APIs, and services
+- Architect: scalable systems and clean codebases
+- Collaborate: mentor teammates, conduct code reviews, and design end-to-end features
+- Learn: continuously exploring new languages, frameworks, and patterns
+
+---
+
+## 🧰 Top Skills
+- Languages: **[e.g. JavaScript, TypeScript, Python, Go]**
+- Frameworks & Tools: **[e.g. React, Next.js, Node, Docker, Kubernetes]**
+- Areas: **[e.g. Backend Architecture, Frontend UX, Testing & CI/CD]**
+
+---
+
+## ⭐ Featured Projects
+(Replace these with links to repositories or live demos you want to highlight.)
+
+- Project One — Short description of the problem it solves and your contributions.  
+  Repository: https://github.com/willget/project-one
+- Project Two — Why it’s interesting and technical highlights.  
+  Live demo: https://project-two.example.com
+- Project Three — Tools used and outcome.  
+  Repo: https://github.com/willget/project-three
+
+Tip: Pin the repos above on your GitHub profile to make them visible on your main page.
+
+---
+
+## 📫 Get in Touch
+- Email: [your-email@example.com]
+- Website / Portfolio: https://your-website.example
+- LinkedIn: https://linkedin.com/in/your-profile
+- Twitter: https://twitter.com/your-handle
+
+---
+
+## 📚 Currently Learning
+- Short bullets of topics you’re exploring (courses, libraries, languages, concepts).
+
+---
+
+## 🤝 How to Work With Me
+- Open to: freelance, full-time, contract, mentorship — specify your preferences
+- Best ways to reach me: email or LinkedIn (links above)
+- Collaboration style: clear goals, frequent checkpoints, and practical documentation
+
+---
+
+## ⚡ Fun Facts
+- Quick personal notes: hobbies, side projects, any non-tech passions.
+
+---
+
+Thanks for visiting — this README is a template. Update the placeholders and reorder sections to best reflect your story.
