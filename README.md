@@ -8,7 +8,7 @@ I’m a builder who loves solving real problems with thoughtful software. This R
 
 ## 🔭 My Short BioLink
 - Role: **[Freelance Website Design Editor, , Product Researcher, Data Researcher]**
-- Location: **[City, Country or Remote]**
+- Location: **[Lucban, Philippines 4328]**
 - Interests: **[Short list — e.g., web platforms, developer tools, machine learning]**
 - Pronouns: **[individual/private]**
 
@@ -32,7 +32,7 @@ I focus on shipping reliable, maintainable systems and delightful user experienc
 ---
 
 ## ⭐ Featured Projects
-(Replace these with links to repositories or live demos you want to highlight.)
+(https://william3164.wordpress.com)
 
 - Project One — Short description of the problem it solves and your contributions.  
   Repository: https://github.com/willget/project-one
@@ -46,10 +46,12 @@ Tip: Pin the repos above on your GitHub profile to make them visible on your mai
 ---
 
 ## 📫 Get in Touch
-- Email: [your-email@example.com]
-- Website / Portfolio: https://your-website.example
-- LinkedIn: https://linkedin.com/in/your-profile
-- Twitter: https://twitter.com/your-handle
+- Email: [mancenidowilliamv@gmail.com]
+- Website / Portfolio: https://william3164.wordpress.com
+- https://william3164.my.canva.site/greeting
+- Facebook Messenger: @m.me
+- 
+- Youtube: https://www.youtube/@WilliamFamily-1938
 
 ---
 
