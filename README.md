@@ -25,9 +25,9 @@ I focus on shipping reliable, maintainable systems and delightful user experienc
 ---
 
 ## 🧰 Top Skills
-- Languages: **[e.g. JavaScript, TypeScript, Python, Go]**
-- Frameworks & Tools: **[e.g. React, Next.js, Node, Docker, Kubernetes]**
-- Areas: **[e.g. Backend Architecture, Frontend UX, Testing & CI/CD]**
+- Languages: **[Basic]**
+- Frameworks & Tools: **[Assistant Copilot]**
+- Areas: **[]**
 
 ---
 
