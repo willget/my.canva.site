@@ -49,9 +49,9 @@ Tip: Pin the repos above on your GitHub profile to make them visible on your mai
 - Email: [mancenidowilliamv@gmail.com]
 - Website / Portfolio: https://william3164.wordpress.com
 - https://william3164.my.canva.site/greeting
-- Facebook Messenger: @m.me
+- Facebook Messenger: messenger.com/@m.me
 - 
-- Youtube: https://www.youtube/@WilliamFamily-1938
+- Youtube: https://www.youtube.com/@WilliamFamily-1938
 
 ---
 
