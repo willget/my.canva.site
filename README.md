@@ -34,8 +34,8 @@ I focus on shipping reliable, maintainable systems and delightful user experienc
 ## ⭐ Featured Projects
 (https://william3164.wordpress.com)
 
-- Project One — Short description of the problem it solves and your contributions.  
-  Repository: https://github.com/willget/project-one
+- Project One — my.canva.site/README.md.  
+  Repository: https://github.com/willget/my.canva.site
 - Project Two — Why it’s interesting and technical highlights.  
   Live demo: https://project-two.example.com
 - Project Three — Tools used and outcome.  
