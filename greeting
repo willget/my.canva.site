@@ -1,1 +1,23 @@
-william3164.wordpress.com/login
+# Product Catalog
+
+| Product | Description | Price | SKU | Tags |
+|---|---|---:|---|---|
+| SuperWidget 3000 | Compact, high-performance widget for daily tasks. 2-year warranty. | $79.00 | SW-3000 | widgets, productivity |
+| PhotoLens Pro | 50mm equivalent lens for mirrorless cameras — sharp, fast autofocus. | $299.00 | PL-PRO-50 | photography, lenses |
+| DevBoard X | Open-source dev board with ESP32, 4MB flash, and USB-C power. | $24.50 | DBX-ESP32 | hardware, devkits |
+
+## Highlights
+- Free shipping over $50
+- 30-day returns
+- Secure checkout
+
+## Example product (expanded)
+### SuperWidget 3000
+- Price: $79.00
+- SKU: SW-3000
+- Short description: Compact, high-performance widget for daily tasks.
+- Key features:
+  - Ultra-lightweight aluminum body
+  - 24-hour battery life
+  - Compatible with the Widget App (iOS, Android)
+- Buy: https://example.com/superwidget-3000
