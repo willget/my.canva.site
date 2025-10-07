@@ -76,9 +76,5 @@ Tip: Pin the repos above on your GitHub profile to make them visible on your mai
 
 Thanks for visiting — this README is a template. Update the placeholders and reorder sections to best reflect your story.
 
-> #Message
-  - Do you like the system?: #_(_________)
-      Comment: #_(_______________________)
-  - role: user
-    content: 'What do like?: {{Hello}} '
-model: open ai/gpt-4o
+& Greeting.prompt.yml
+
