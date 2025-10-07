@@ -75,3 +75,10 @@ Tip: Pin the repos above on your GitHub profile to make them visible on your mai
 ---
 
 Thanks for visiting — this README is a template. Update the placeholders and reorder sections to best reflect your story.
+
+>  messages:
+  - role: system
+    content: You are a helpful assistant that breaks down action items from a meeting
+  - role: user
+    content: 'What do like?: {{Hello}} '
+model: openai/gpt-4o
