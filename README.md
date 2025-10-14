@@ -8,7 +8,8 @@ I’m a builder who loves solving real problems with thoughtful software. This R
 
 ## 🔭 My Short BioLink
 - Role: **[Freelance Website Design Editor, , Product Researcher, Data Researcher]**
-- Location: **[Lucban, Philippines 4328]**
+- Location:
+-             **[Lucban, Philippines 4328]**
 - Interests: **[Short list — e.g., web platforms, developer tools, machine learning]**
 - Pronouns: **[individual/private]**
 
