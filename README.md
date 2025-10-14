@@ -11,10 +11,13 @@ I’m a builder who loves solving real problems with thoughtful software. This R
 - Location:
 -             **[Lucban, Philippines 4328]**
 - Interests:
-  #
-  *Short list — e.g., web platforms, developer tools, machine learning]**]
+  
+  *Short list — e.g., web platforms, developer tools, machine learning]*]
 
-- Pronouns: **[individual/private]**
+
+- Pronouns:
+  
+       [ **individual/private**] 
 
 I focus on shipping reliable, maintainable systems and delightful user experiences. I love pairing technical depth with pragmatic product thinking.
 
