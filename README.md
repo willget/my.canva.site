@@ -12,7 +12,7 @@ I’m a builder who loves solving real problems with thoughtful software. This R
 -             **[Lucban, Philippines 4328]**
 - Interests:
   #
-  *[Short list — e.g., web platforms, developer tools, machine learning]**]
+  *Short list — e.g., web platforms, developer tools, machine learning]**]
 
 - Pronouns: **[individual/private]**
 
