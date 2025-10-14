@@ -31,15 +31,15 @@ I focus on shipping reliable, maintainable systems and delightful user experienc
 - Learn: continuously exploring new languages, frameworks, and patterns
 
 ---
-
-## 🧰 Top Skills
+#
+    ## 🧰 Top Skills
 - Languages: **[Basic]**
 - Frameworks & Tools: **[Assistant Copilot]**
 - Areas: **[]**
 
 ---
-
-## ⭐ Featured Projects
+#
+    ## ⭐ Featured Projects
 (https://william3164.wordpress.com)
 
 - Project One — my.canva.site/README.md.  
@@ -52,8 +52,8 @@ I focus on shipping reliable, maintainable systems and delightful user experienc
 Tip: Pin the repos above on your GitHub profile to make them visible on your main page.
 
 ---
-
-## 📫 Get in Touch
+#
+    ## 📫 Get in Touch
 - Email: [mancenidowilliamv@gmail.com]
 - Website / Portfolio: https://william3164.wordpress
 - https://william3164.my.canva.site/greeting
@@ -64,23 +64,23 @@ Tip: Pin the repos above on your GitHub profile to make them visible on your mai
 - Youtube: https://www.youtube/@WilliamFamily-1964
 
 ---
-
-## 📚 Currently Learning
+#
+    ## 📚 Currently Learning
 - Short bullets of topics you’re exploring (courses, libraries, languages, concepts).
 - #
 -            Gcash
 - ☝️
 
 ---
-
-## 🤝 How to Work With Me
+#
+    ## 🤝 How to Work With Me
 - Open to: freelance, full-time, contract, mentorship — specify your preferences
 - Best ways to reach me: email me or Private Messaging(links above)
 - Collaboration style: clear goals, frequent checkpoints, and practical documentation
 
 ---
-
-## ⚡ Fun Facts
+#
+    ## ⚡ Fun Facts
 - Quick personal notes: hobbies, side projects, any non-tech passions.
 
 ---
