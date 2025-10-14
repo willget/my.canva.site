@@ -23,8 +23,8 @@ I’m a builder who loves solving real problems with thoughtful software. This R
 I focus on shipping reliable, maintainable systems and delightful user experiences. I love pairing technical depth with pragmatic product thinking.
 
 ---
-
-## 🚀 What I Do
+#
+    ## 🚀 What I Do
 - Build: modern web apps, APIs, and services
 - Architect: scalable systems and clean codebases
 - Collaborate: mentor teammates, conduct code reviews, and design end-to-end features
