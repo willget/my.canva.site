@@ -75,7 +75,8 @@ Tip: Pin the repos above on your GitHub profile to make them visible on your mai
 - Short bullets of topics you’re exploring (courses, libraries, languages, concepts).
 - #
 -  https'://william3164.my.canva.site/personal-copy
--  https://william3164.my.canva.site/personal-copy
+-  https'://william3164.my.canva.site/personal-copy
+-  https'://gabeandreaproj4.my.canva.site/hello
 - ☝️
 
 ---
