@@ -74,7 +74,7 @@ Tip: Pin the repos above on your GitHub profile to make them visible on your mai
     ## 📚 Currently Learning
 - Short bullets of topics you’re exploring (courses, libraries, languages, concepts).
 - #
--            Gcash
+-  https'://william3164.my.canva.site/personal-copy
 - ☝️
 
 ---
