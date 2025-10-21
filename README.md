@@ -45,14 +45,14 @@ I focus on shipping reliable, maintainable systems and delightful user experienc
 ---
     #
     ## ⭐ Featured Projects
-(https://william3164.wordpress.com)
+(https'://william3164.wordpress.com)
 
 - Project One — my.canva.site/README.md.  
   Repository: https://github.com/willget/my.canva.site
 - Project Two — Why it’s interesting and technical highlights.  
   Live demo: https://project-two.example.com
 - Project Three — Tools used and outcome.  
-  Repo: https://github.com/willget/project-three]
+  Repo: https'://github.com/willget/project-three]
 
 Tip: Pin the repos above on your GitHub profile to make them visible on your main page.
 
@@ -61,13 +61,13 @@ Tip: Pin the repos above on your GitHub profile to make them visible on your mai
     ## 📫 Get in Touch
 - Email:
 -     [mancenidowilliamv@gmail.com]
-- Website / Portfolio: https://william3164.wordpress
-- https://william3164.my.canva.site/greeting
+- Website / Portfolio: https'://william3164.wordpress
+- https'://william3164.my.canva.site/greeting
 - Facebook Messenger: https://messenger/@m.me
 - 
-- Youtube: https://m.youtube.com/@WilliamFamily-1938
-- Youtube: https://www.youtube/@WilliamFamily-1922
-- Youtube: https://www.youtube/@WilliamFamily-1964]
+- Youtube: https'://m.youtube.com/@WilliamFamily-1938
+- Youtube: https'://www.youtube/@WilliamFamily-1922
+- Youtube: https'://www.youtube/@WilliamFamily-1964]
 
 ---
     [#
