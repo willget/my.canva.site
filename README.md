@@ -7,7 +7,7 @@ Hi, I'm Will 👋
 I’m a builder who loves solving real problems with thoughtful software. This README is a living profile — meant to showcase who I am, what I build, and how we can work together. Replace the placeholders below with your details to make it yours.]
 
 ---
-   [ #
+    #
     ## 🔭 My Short BioLink
 - Role:
 -     **[Freelance Website Design Editor, , Product Researcher, Data Researcher]**
@@ -30,7 +30,7 @@ I focus on shipping reliable, maintainable systems and delightful user experienc
 - Build: modern web apps, APIs, and services
 - Architect: scalable systems and clean codebases
 - Collaborate: mentor teammates, conduct code reviews, and design end-to-end features
-- Learn: continuously exploring new languages, frameworks, and patterns]
+- Learn: continuously exploring new languages, frameworks, and patterns
 
 ---
     [#
@@ -48,9 +48,9 @@ I focus on shipping reliable, maintainable systems and delightful user experienc
 (https'://william3164.wordpress.com)
 
 - Project One — my.canva.site/README.md.  
-  Repository: https://github.com/willget/my.canva.site
+  Repository: https'://github.com/willget/my.canva.site
 - Project Two — Why it’s interesting and technical highlights.  
-  Live demo: https://project-two.example.com
+  Live demo: https'://project-two.example.com
 - Project Three — Tools used and outcome.  
   Repo: https'://github.com/willget/project-three]
 
@@ -63,7 +63,7 @@ Tip: Pin the repos above on your GitHub profile to make them visible on your mai
 -     [mancenidowilliamv@gmail.com]
 - Website / Portfolio: https'://william3164.wordpress
 - https'://william3164.my.canva.site/greeting
-- Facebook Messenger: https://messenger/@m.me
+- Facebook Messenger: https'://messenger/@m.me
 - 
 - Youtube: https'://m.youtube.com/@WilliamFamily-1938
 - Youtube: https'://www.youtube/@WilliamFamily-1922
