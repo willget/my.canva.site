@@ -78,14 +78,14 @@ Tip: Pin the repos above on your GitHub profile to make them visible on your mai
 
 ---
 #
-    ## 🤝 How to Work With Me
+  ## 🤝 How to Work With Me
 - Open to: freelance, full-time, contract, mentorship — specify your preferences
 - Best ways to reach me: email me or Private Messaging(links above)
 - Collaboration style: clear goals, frequent checkpoints, and practical documentation]
 
 ---
-    [#
-    ## ⚡ Fun Facts
+###
+ ### ⚡ Fun Facts
 - Quick personal notes: hobbies, side projects, any non-tech passions.
 
 ---
