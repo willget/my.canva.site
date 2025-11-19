@@ -10,17 +10,15 @@ I’m a builder who loves solving real problems with thoughtful software. This R
 #
 ## 🔭 My Short BioLink
 - Role:
--     **[Freelance Website Design Editor, , Product Researcher, Data Researcher]**
+  Freelance Website Design Editor, , Product Researcher, Data Researcher]**
 - Location:
 - **[Lucban, Philippines 4328]**
-- Interests:
-  
-*Short list — e.g., web platforms, developer tools, machine learning]*]
-https://instagram.com/GitHub.com
+Interests:
+Short list — e.g., web platforms, developer tools, machine learning]*]
+https://instagram/GitHub
 
 - Pronouns:
-  
-  [ **individual/private**] 
+ [ **individual/private**] 
 
 I focus on shipping reliable, maintainable systems and delightful user experiences. I love pairing technical depth with pragmatic product thinking.]
 
@@ -36,9 +34,9 @@ I focus on shipping reliable, maintainable systems and delightful user experienc
 [#
 ## 🧰 Top Skills
 - Languages:
--     **[Basic]**
+-  **[Basic]**
 - Frameworks & Tools:
--     **[Assistant Copilot]**
+- *[Assistant Copilot]**
 - Areas:
 - **[]**
 
@@ -46,7 +44,7 @@ I focus on shipping reliable, maintainable systems and delightful user experienc
 (https://william311964.wordpress.)
 
 - Project One — my.canva.site/README.md.  
-  Repository: https'://github/willget/my.canva.site
+  Repository: https'://github/willget/my.canva
 - Project Two — Why it’s interesting and technical highlights.  
   Live demo: https'://project-two.example.com
 - Project Three — Tools used and outcome.  
