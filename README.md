@@ -1,82 +1,81 @@
 
 
 Hi, I'm Will 👋
-    #
+#
 > Building useful things with code, design, and curiosity.
-    #
+#
 I’m a builder who loves solving real problems with thoughtful software. This README is a living profile — meant to showcase who I am, what I build, and how we can work together. Replace the placeholders below with your details to make it yours.]
 
 ---
-    #
-    ## 🔭 My Short BioLink
+#
+## 🔭 My Short BioLink
 - Role:
 -     **[Freelance Website Design Editor, , Product Researcher, Data Researcher]**
 - Location:
--             **[Lucban, Philippines 4328]**
+- **[Lucban, Philippines 4328]**
 - Interests:
   
-  *Short list — e.g., web platforms, developer tools, machine learning]*]
+*Short list — e.g., web platforms, developer tools, machine learning]*]
 https://instagram.com/GitHub.com
 
 - Pronouns:
   
-       [ **individual/private**] 
+  [ **individual/private**] 
 
 I focus on shipping reliable, maintainable systems and delightful user experiences. I love pairing technical depth with pragmatic product thinking.]
 
 ---
-    [#
-    ## 🚀 What I Do
+[#
+## 🚀 What I Do
 - Build: modern web apps, APIs, and services
 - Architect: scalable systems and clean codebases
 - Collaborate: mentor teammates, conduct code reviews, and design end-to-end features
 - Learn: continuously exploring new languages, frameworks, and patterns
 
 ---
-    [#
-    ## 🧰 Top Skills
+[#
+## 🧰 Top Skills
 - Languages:
 -     **[Basic]**
 - Frameworks & Tools:
 -     **[Assistant Copilot]**
 - Areas:
--     **[]**
+- **[]**
 
----
-    #
-    ## ⭐ Featured Projects
-(https'://william3164.wordpress.com)
+### ⭐ Featured Projects
+(https://william311964.wordpress.)
 
 - Project One — my.canva.site/README.md.  
-  Repository: https'://github.com/willget/my.canva.site
+  Repository: https'://github/willget/my.canva.site
 - Project Two — Why it’s interesting and technical highlights.  
   Live demo: https'://project-two.example.com
 - Project Three — Tools used and outcome.  
-  Repo: https'://github.com/willget/project-three]
+  Repo: https://github/willget/project-three]
 
 Tip: Pin the repos above on your GitHub profile to make them visible on your main page.
 
 ---
-    [#
-    ## 📫 Get in Touch
+#
+## 📫 Get in Touch
 - Email:
--     [mancenidowilliamv@gmail.com]
-- Website / Portfolio: https'://william3164.wordpress
-- https'://william3164.my.canva.site/greeting
-- Facebook Messenger: https'://messenger/@m.me
-- 
-- Youtube: https'://m.youtube.com/@WilliamFamily-1938
-- Youtube: https'://www.youtube/@WilliamFamily-1922
-- Youtube: https'://www.youtube/@WilliamFamily-1964]
+- mancenidowilliamv@gmail
+- Website / Portfolio: https://william3164.wordpress
+- https://william311964.my.canva/greeting
+- Facebook Messenger: https://messenger/@m.me
 
----
-    [#
-    ## 📚 Currently Learning
+  
+
+
+
+
+
+
+#
+## 📚 Currently Learning
 - Short bullets of topics you’re exploring (courses, libraries, languages, concepts).
 - #
--  https'://william3164.my.canva.site/personal-copy
--  https'://william3164.my.canva.site/personal-copy
--  https'://gabeandreaproj4.my.canva.site/hello
+ https://william311964.my.canva/personal-https://william311964.my.can/personal-copy
+-  https://gabeandreaproj4.my.canva/hello
 - ☝️
 
 ---
