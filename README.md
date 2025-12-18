@@ -58,15 +58,15 @@ Tip: Pin the repos above on your GitHub profile to make them visible on your mai
 - Email:
 - mancenidowilliamv@gmail.com
 - Website / Portfolio: https://william3164.wordpress
-- https://william311964.my.canva.com/greeting
+- https://william311964.my.canva.site/greeting
 - Facebook Messenger: https://messenger/@m.me
 
   #
 ##### 📚 Currently Learning
 - Short bullets of topics you’re exploring (courses, libraries, languages, concepts).
 - ######
- https://william311964.my.canva.com/personal-https://william311964.my.canva.com/personal-copy
--  ##### https://gabeandreaproj4.my.canva.com/hello
+ https://william311964.my.canva.site/personal-https://william311964.my.canva.site/personal-copy
+-  ##### https://gabeandreaproj4.my.canva.site/hello
 # -☝️
 
 ---
