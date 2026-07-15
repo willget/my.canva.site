@@ -1,6 +1,6 @@
 `git status` willget/@ [https://designediting.my.canva.site/mga-panoorin-at-pinakikinggan-sa-social-media]
 
-`git status` willget/@ [m.me/100533179815423]
+`git status` willget/@ [https:m.me/100533179815423]
 
 Hi, I'm Will 👋
 #####
