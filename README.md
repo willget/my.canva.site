@@ -2,6 +2,8 @@
 
 `git status` willget/@ [https://designediting.my.canva.site/subscription]
 
+`git status` willget/@ [https://designediting.my.canva.site/my-bill-payment]
+
 Hi, I'm Will 👋
 #####
 > Building useful things with code, design, and curiosity.
