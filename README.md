@@ -1,4 +1,4 @@
-`git status` willget/@ [https://designediting.my.canva.site/design-917]
+`git status` willget/@ [https://designediting.my.canva.site/design]
 
 `git status` willget/@ [https://designediting.my.canva.site/subscription]
 
