@@ -44,7 +44,7 @@ https://instagram.com
 - Areas:
 - **[]**
 
-##### ⭐ Featured Projects
+##### `⭐ Featured Projects`
 (https://william311964.wordpress.com)
 
 ##### - Project One — my.canva.site/README.md.  
@@ -58,7 +58,7 @@ Tip: Pin the repos above on your GitHub profile to make them visible on your mai
 
 ---
 #
-## 📫 Get in Touch
+## `📫 Get in Touch`
 - Email:
 - mancenidowilliamv@gmail.com
 - Website / Portfolio:
@@ -66,7 +66,7 @@ Tip: Pin the repos above on your GitHub profile to make them visible on your mai
 - Facebook Messenger: https://messenger/@m.me
 
   #
-##### 📚 Currently Learning
+##### `📚 Currently Learning`
 - Short bullets of topics you’re exploring (courses, libraries, languages, concepts).
 - ######
  https://william311964.my.canva.site/personal-https://william311964.my.canva.site/personal-copy
@@ -75,14 +75,14 @@ Tip: Pin the repos above on your GitHub profile to make them visible on your mai
 
 ---
 #####
-  ##### 🤝 How to Work With Me
+  ##### `🤝 How to Work With Me`
 - Open to: freelance, full-time, contract, mentorship — specify your preferences
 - Best ways to reach me: email me or Private Messaging(links above)
 - Collaboration style: clear goals, frequent checkpoints, and practical documentation]
 
 ---
 ######
- ##### ⚡ Fun Facts
+ ##### `⚡ Fun Facts`
 - Quick personal notes: hobbies, side projects, any non-tech passions.
 
 ---
