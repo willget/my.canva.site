@@ -16,15 +16,15 @@ I’m a builder who loves solving real problems with thoughtful software. This R
 - Role:
   Freelance Website Design Editor, , Product Researcher, Data Researcher]**
 - Location:
-##### **[Lucban, Philippines 4328]**
+##### **`[Lucban, Philippines 4328]`**
 Interests:
 Short list — e.g., web platforms, developer tools, machine learning]*]
 https://instagram.com
 
 - Pronouns:
- [ **individual/private**] 
+ **`individual/private`**
 
-]
+
 
 ---
 [#
