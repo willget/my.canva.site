@@ -8,14 +8,15 @@ Hi, I'm Will 👋
 #####
 > Building useful things with code, design, and curiosity.
 #####
-I’m a builder who loves solving real problems with thoughtful software. This README is a living profile — meant to showcase who I am, what I build, and how we can work together. Replace the placeholders below with your details to make it yours.[https://designediting.my.canva.site/mga-panoorin-at-pinakikinggan-sa-social-media]
+I’m a builder who loves solving real problems with thoughtful software. This README is a living profile — meant to showcase who I am, what I build, and how we can work together. Replace the placeholders below with your details to make it yours.
+###### https://designediting.my.canva.site/bago
 ---
 #####
 ##### 🔭 My Short BioLink
 - Role:
   Freelance Website Design Editor, , Product Researcher, Data Researcher]**
 - Location:
-#####- **[Lucban, Philippines 4328]**
+##### **[Lucban, Philippines 4328]**
 Interests:
 Short list — e.g., web platforms, developer tools, machine learning]*]
 https://instagram.com
