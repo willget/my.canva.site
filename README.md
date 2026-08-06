@@ -12,14 +12,14 @@ I’m a builder who loves solving real problems with thoughtful software. This R
 ###### `https://designediting.my.canva.site/bago`
 ---
 #####
-##### 🔭 My Short BioLink
+##### 🔭 `My Short BioLink`
 - Role:
   Freelance Website Design Editor, , Product Researcher, Data Researcher]**
 - Location:
 ##### **`[Lucban, Philippines 4328]`**
 Interests:
 Short list — e.g., web platforms, developer tools, machine learning]*]
-https://instagram.com
+`https://instagram.com`
 
 - Pronouns:
  **`individual/private`**
@@ -35,17 +35,17 @@ https://instagram.com
 - Learn: continuously exploring new languages, frameworks, and patterns
 
 ---
-[#
-##### 🧰 `Top Skills`
+
+##### `🧰 Top Skills`
 - Languages:
-- ` **[Basic]**`
+- ` **`[Basic]`**`
 - Frameworks & Tools:
 - *`[Assistant Copilot]`**
 - Areas:
 - **[]**
 
 ##### `⭐ Featured Projects`
-(`https://william311964.wordpress.com`)`
+`https://william311964.wordpress.com`
 
 ##### - Project One — my.canva.site/README.md.  
   Repository: https'://github/willget/my.canva
@@ -58,7 +58,7 @@ Tip: Pin the repos above on your GitHub profile to make them visible on your mai
 
 ---
 #
-## `📫 `Get in Touch`
+## `📫 Get in Touch`
 - Email:
 - `mancenidowilliamv@gmail.com`
 - Website / Portfolio:
@@ -69,9 +69,9 @@ Tip: Pin the repos above on your GitHub profile to make them visible on your mai
 ##### `📚 Currently Learning`
 - Short bullets of topics you’re exploring (courses, libraries, languages, concepts).
 - ######
-` https://william311964.my.canva.site/personal`-https://william311964.my.canva.site/personal-copy
+` https://william311964.my.canva.site/personal`-`https://william311964.my.canva.site/personal-copy`
 -  ##### `https://gabeandreaproj4.my.canva.site/hello`
-# -☝️
+ ☝️
 
 ---
 #####
