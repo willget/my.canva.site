@@ -28,7 +28,7 @@ https://instagram.com
 
 ---
 [#
-##### 🚀 What I Do
+##### 🚀` What I Do`
 - Build: modern web apps, APIs, and services
 - Architect: scalable systems and clean codebases
 - Collaborate: mentor teammates, conduct code reviews, and design end-to-end features
@@ -36,7 +36,7 @@ https://instagram.com
 
 ---
 [#
-##### 🧰 Top Skills
+##### 🧰 `Top Skills`
 - Languages:
 -  **[Basic]**
 - Frameworks & Tools:
@@ -52,24 +52,24 @@ https://instagram.com
 ##### - Project Two — Why it’s interesting and technical highlights.  
   Live demo: https'://project-two.example.com
 ##### - Project Three — Tools used and outcome.  
-  Repo: https://github/willget/project-three]
+  Repo: `https://github/willget/project-three`
 
 Tip: Pin the repos above on your GitHub profile to make them visible on your main page.
 
 ---
 #
-## `📫 Get in Touch`
+## `📫 `Get in Touch`
 - Email:
-- mancenidowilliamv@gmail.com
+- `mancenidowilliamv@gmail.com`
 - Website / Portfolio:
-- https://william311964.my.canva.site/greeting
-- Facebook Messenger: https://messenger/@m.me
+- `https://william311964.my.canva.site/greeting`
+- `Facebook Messenger`: `https://messenger/@m.me`
 
   #
 ##### `📚 Currently Learning`
 - Short bullets of topics you’re exploring (courses, libraries, languages, concepts).
 - ######
- https://william311964.my.canva.site/personal-https://william311964.my.canva.site/personal-copy
+` https://william311964.my.canva.site/personal`-https://william311964.my.canva.site/personal-copy
 -  ##### https://gabeandreaproj4.my.canva.site/hello
 # -☝️
 
