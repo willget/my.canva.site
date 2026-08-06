@@ -1,15 +1,15 @@
-`git status` willget/@ [https://designediting.my.canva.site/design]
+`git status` willget/@ `[https://designediting.my.canva.site/design]`
 
-`git status` willget/@ [https://designediting.my.canva.site/subscription]
+`git status` willget/@ `[https://designediting.my.canva.site/subscription]`
 
-`git status` willget/@ [https://designediting.my.canva.site/my-bill-payment]
+`git status` willget/@ `[https://designediting.my.canva.site/my-bill-payment]`
 
 Hi, I'm Will 👋
 #####
 > Building useful things with code, design, and curiosity.
 #####
 I’m a builder who loves solving real problems with thoughtful software. This README is a living profile — meant to showcase who I am, what I build, and how we can work together. Replace the placeholders below with your details to make it yours.
-###### https://designediting.my.canva.site/bago
+###### `https://designediting.my.canva.site/bago`
 ---
 #####
 ##### 🔭 My Short BioLink
@@ -38,14 +38,14 @@ https://instagram.com
 [#
 ##### 🧰 `Top Skills`
 - Languages:
--  **[Basic]**
+- ` **[Basic]**`
 - Frameworks & Tools:
-- *[Assistant Copilot]**
+- *`[Assistant Copilot]`**
 - Areas:
 - **[]**
 
 ##### `⭐ Featured Projects`
-(https://william311964.wordpress.com)
+(`https://william311964.wordpress.com`)`
 
 ##### - Project One — my.canva.site/README.md.  
   Repository: https'://github/willget/my.canva
@@ -70,7 +70,7 @@ Tip: Pin the repos above on your GitHub profile to make them visible on your mai
 - Short bullets of topics you’re exploring (courses, libraries, languages, concepts).
 - ######
 ` https://william311964.my.canva.site/personal`-https://william311964.my.canva.site/personal-copy
--  ##### https://gabeandreaproj4.my.canva.site/hello
+-  ##### `https://gabeandreaproj4.my.canva.site/hello`
 # -☝️
 
 ---
@@ -88,5 +88,5 @@ Tip: Pin the repos above on your GitHub profile to make them visible on your mai
 ---
 
 Thanks for visiting — this README is a template. Update the placeholders and reorder sections to best reflect your story.
-##### > github.com/Greeting.prompt.yml]
+##### > `github.com/Greeting.prompt.yml`
 
