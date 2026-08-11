@@ -1,8 +1,16 @@
-`git status` willget/@ `[https://designediting.my.canva.site/design]`
+**`git status`**
 
-`git status` willget/@ `[https://designediting.my.canva.site/subscription]`
 
-`git status` willget/@ `[https://designediting.my.canva.site/my-bill-payment]`
+[**`willget/@🔒designediting.my.canva.site/design`**](https://designediting.my.canva.site)
+
+**`git status`** 
+
+[**`willget/@🔒designediting.my.canva.site/subscription`**](designediting.my.canva.site/designmusic)
+
+**`git status`**
+
+[**`willget/@🔒designediting.my.canva.site/bago`**](https://designediting.my.canva.site/bago)
+
 
 Hi, I'm Will 👋
 #####
@@ -44,10 +52,9 @@ Short list — e.g., web platforms, developer tools, machine learning]*]
 - Areas:
 - **[]**
 
-##### `⭐ Featured Projects`
-`https://william311964.wordpress.com`
+##### [**`⭐ Featured Projects`**](https://william311964.wordpress.com)`
 
-##### - Project One — my.canva.site/README.md.  
+##### [**`- Project One `**](my.canva.site/README.md.)  
   Repository: https'://github/willget/my.canva
 ##### - Project Two — Why it’s interesting and technical highlights.  
   Live demo: https'://project-two.example.com
@@ -63,7 +70,7 @@ Tip: Pin the repos above on your GitHub profile to make them visible on your mai
 - `mancenidowilliamv@gmail.com`
 - Website / Portfolio:
 - `https://william311964.my.canva.site/greeting`
-- `Facebook Messenger`: `https://messenger/@m.me`
+-[**`Facebook Messenger`**](https://messenger/@m.me)
 
   #
 ##### `📚 Currently Learning`
@@ -88,5 +95,5 @@ Tip: Pin the repos above on your GitHub profile to make them visible on your mai
 ---
 
 Thanks for visiting — this README is a template. Update the placeholders and reorder sections to best reflect your story.
-##### > `github.com/Greeting.prompt.yml`
+##### > [**`github.com`**](Greeting.prompt.yml)
 
