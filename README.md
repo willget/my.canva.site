@@ -69,6 +69,7 @@ Interests:
 
 ##### [`⭐ Featured Projects`](https://william311964.wordpress.com)`
 
+
 ##### [` Project One `](my.canva.site/README.md.)  
  
   [`Repository`](https'://github/willget/my.canva.site
@@ -84,8 +85,8 @@ Tip: Pin the repos above on your GitHub profile to make them visible on your mai
 ---
 #
 ## `📫 Get in Touch`
-- Email:
-- `mancenidowilliamv@gmail.com`
+# [`Email:`](mancenidowilliamv@gmail.com)
+
 - Website / Portfolio:
 - `https://william311964.my.canva.site/greeting`
 -[``Facebook Messenger``](https://messenger/@m.me)
