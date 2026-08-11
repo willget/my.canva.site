@@ -85,17 +85,22 @@ Tip: Pin the repos above on your GitHub profile to make them visible on your mai
 ---
 #
 ## `📫 Get in Touch`
-# [`Email:`](mancenidowilliamv@gmail.com)
+# [`Email:`](https://mancenidowilliamv@gmail.com)
 
 - Website / Portfolio:
-- `https://william311964.my.canva.site/greeting`
--[``Facebook Messenger``](https://messenger/@m.me)
+- [`william311964.my.canva.site/greeting`](https://william311964.my.canva.site)
+
+
+[``Facebook Messenger``](https://messenger/@m.me)
 
   #
 ##### `📚 Currently Learning`
 - Short bullets of topics you’re exploring (courses, libraries, languages, concepts).
-- ######
-` https://william311964.my.canva.site/personal`-`https://william311964.my.canva.site/personal-copy`
+ ######
+[`william311964.my.canva.site`/personal](https://william311964.my.canva.site)
+
+
+`https://william311964.my.canva.site/personal-copy`
 -  ##### `https://gabeandreaproj4.my.canva.site/hello`
  ☝️
 
