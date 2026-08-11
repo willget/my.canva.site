@@ -1,15 +1,24 @@
 **`git status`**
 
 
-[**`willget/@🔒designediting.my.canva.site/design`**](https://designediting.my.canva.site)
+###### |`willget status`|
+
+
+[🔒`designediting.my.canva.site/design`](https://designediting.my.canva.site)
 
 **`git status`** 
 
-[**`willget/@🔒designediting.my.canva.site/subscription`**](designediting.my.canva.site/designmusic)
+   ###   |`willget status`|
+###### 
+
+[`🔒designediting.my.canva.site/designmusic`](designediting.my.canva.site/designmusic)
 
 **`git status`**
 
-[**`willget/@🔒designediting.my.canva.site/bago`**](https://designediting.my.canva.site/bago)
+###### | `willget status`|
+
+
+[`🔒designediting.my.canva.site/bago`](https://designediting.my.canva.site/bago)
 
 
 Hi, I'm Will 👋
@@ -52,10 +61,12 @@ Short list — e.g., web platforms, developer tools, machine learning]*]
 - Areas:
 - **[]**
 
-##### [**`⭐ Featured Projects`**](https://william311964.wordpress.com)`
+##### [`⭐ Featured Projects`](https://william311964.wordpress.com)`
 
-##### [**`- Project One `**](my.canva.site/README.md.)  
-  Repository: https'://github/willget/my.canva
+##### [` Project One `](my.canva.site/README.md.)  
+  [`Repository`](https'://github/willget/my.canva.site
+
+
 ##### - Project Two — Why it’s interesting and technical highlights.  
   Live demo: https'://project-two.example.com
 ##### - Project Three — Tools used and outcome.  
