@@ -36,15 +36,13 @@ I’m a builder who loves solving real problems with thoughtful software. This R
 ##### **`[Lucban, Philippines 4328]`**
 Interests:
 Short list — e.g., web platforms, developer tools, machine learning]*]
-`https://instagram.com`
+##
+[`instagram.com`](https://www.instagram.com)
 
 - Pronouns:
  **`individual/private`**
 
 
-
----
-[#
 ##### 🚀` What I Do`
 - Build: modern web apps, APIs, and services
 - Architect: scalable systems and clean codebases
@@ -57,9 +55,9 @@ Short list — e.g., web platforms, developer tools, machine learning]*]
 - Languages:
 - ` **`[Basic]`**`
 - Frameworks & Tools:
-- *`[Assistant Copilot]`**
+- *`[Assistant Copilot]`*
 - Areas:
-- **[]**
+  #[`PAYPAL`](www.sandbox.paypal.com)
 
 ##### [`⭐ Featured Projects`](https://william311964.wordpress.com)`
 
@@ -81,7 +79,7 @@ Tip: Pin the repos above on your GitHub profile to make them visible on your mai
 - `mancenidowilliamv@gmail.com`
 - Website / Portfolio:
 - `https://william311964.my.canva.site/greeting`
--[**`Facebook Messenger`**](https://messenger/@m.me)
+-[``Facebook Messenger``](https://messenger/@m.me)
 
   #
 ##### `📚 Currently Learning`
@@ -106,5 +104,5 @@ Tip: Pin the repos above on your GitHub profile to make them visible on your mai
 ---
 
 Thanks for visiting — this README is a template. Update the placeholders and reorder sections to best reflect your story.
-##### > [**`github.com`**](Greeting.prompt.yml)
+##### > [**`github.com`**](README.MD)
 
