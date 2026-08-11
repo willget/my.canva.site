@@ -100,8 +100,10 @@ Tip: Pin the repos above on your GitHub profile to make them visible on your mai
 [`william311964.my.canva.site`/personal](https://william311964.my.canva.site)
 
 
-`https://william311964.my.canva.site/personal-copy`
--  ##### `https://gabeandreaproj4.my.canva.site/hello`
+[`william311964.my.canva.site/personal-copy`](https://william311964.my.canva.site)
+
+##### 
+[`https://gabeandreaproj4.my.canva.site/hello`](https://gabeandreaproj4.my.canva.site)
  ☝️
 
 ---
