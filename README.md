@@ -64,11 +64,13 @@ Interests:
 - Frameworks & Tools:
 - *`[Assistant Copilot]`*
 - Areas:
-  # [`PAYPAL`](www.sandbox.paypal.com)
+
+   [`PAYPAL`](https://www.sandbox.paypal.com)
 
 ##### [`⭐ Featured Projects`](https://william311964.wordpress.com)`
 
 ##### [` Project One `](my.canva.site/README.md.)  
+ 
   [`Repository`](https'://github/willget/my.canva.site
 
 
