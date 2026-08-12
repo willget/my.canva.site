@@ -1,21 +1,21 @@
-**`git status`**
+## **`git status`**
 
 
-###### |`willget status`|
+## `willget status`
 
 
 🔒[`designediting.my.canva.site/design`](https://designediting.my.canva.site)
 
-**`git status`** 
+## **`git status`** 
 
-   ###   |`willget status`|
-###### 
+   ##   `willget status`
+ 
 
 🔒[`designediting.my.canva.site/designmusic`](designediting.my.canva.site/designmusic)
 
-**`git status`**
+## **`git status`**
 
-###### | `willget status`|
+## `willget status`
 
 
 🔒[`designediting.my.canva.site/bago`](https://designediting.my.canva.site/bago)
@@ -39,10 +39,9 @@ I’m a builder who loves solving real problems with thoughtful software. This R
 
 [``Location``](Lucban,Philippines/4328)
 
-Interests:
-
-[Short list ](e.g.,web platforms,developer tools,machine learning)
-
+>**Interests**: 
+>
+>**`Shortlist`** e.g.,web platforms,developer tools,machine learning
 
 ## [`INSTAGRAM`](https://www.instagram.com)
 
