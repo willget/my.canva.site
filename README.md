@@ -64,7 +64,7 @@ I’m a builder who loves solving real problems with thoughtful software. This R
 - *`[Assistant Copilot]`*
 - Areas:
 
-   [`PAYPAL`](https://www.sandbox.paypal.com)
+   ## [`PAYPAL`](https://www.sandbox.paypal.com)
 
 ##### [`⭐ Featured Projects`](https://william311964.wordpress.com)`
 
