@@ -3,17 +3,15 @@
 ## **`git status`**
 
 
-## `willget status`
+## [`willget status`][🔒[`designediting.my.canva.site/design`](https://designediting.my.canva.site/design)]
 
-
-🔒[`designediting.my.canva.site/design`](https://designediting.my.canva.site)
 
 ## **`git status`** 
 
    ##   `willget status`
  
 
-🔒[`designediting.my.canva.site/designmusic`](designediting.my.canva.site/designmusic)
+🔒[`[***designediting.my.canva.site/designmusic***`](designediting.my.canva.site/designmusic)
 
 ## **`git status`**
 
