@@ -34,32 +34,29 @@ I’m a builder who loves solving real problems with thoughtful software. This R
 ## [`INSTAGRAM`](https://www.instagram.com)
 ---
 -### [`Pronouns`](individual/private)
-
-
+---
 ##### 🚀` What I Do`
 - Build: modern web apps, APIs, and services
 - Architect: scalable systems and clean codebases
 - Collaborate: mentor teammates, conduct code reviews, and design end-to-end features
 - Learn: continuously exploring new languages, frameworks, and patterns
-
 ---
-
 ##### `🧰 Top Skills`
 - Languages:
-- ` **`[Basic]`**`
+-  **`[Basic]`**
 - Frameworks & Tools:
-- *`[Assistant Copilot]`*
+- **`[Assistant Copilot]`**
 - Areas:
-
+---
    ## [`PAYPAL`](https://www.sandbox.paypal.com)
+---
+##### [`⭐ Featured Projects`](https://william311964.wordpress.com/@DesignEditing 917)`
+---
 
-##### [`⭐ Featured Projects`](https://william311964.wordpress.com)`
-
-
-##### [` Project One `](my.canva.site/README.md.)  
- 
- [`Repository`](https'://github/willget/my.canva.site
-
+##### [` Project One `](https://designediting.my.canva.site/designmusic)
+---
+ [`Repository`](https://github/willget/my.canva.site)
+---
 
 ##### - Project Two — Why it’s interesting and technical highlights.  
   Live demo: https'://project-two.example.com
@@ -69,22 +66,22 @@ Tip: Pin the repos above on your GitHub profile to make them visible on your mai
 ---
 ## `📫 Get in Touch`
 # [`Email:`](https://mancenidowilliamv@gmail.com)
-- Website / Portfolio:
-- [`william311964.my.canva.site/greeting`](https://william311964.my.canva.site)
-#### --_[`Facebook Messenger`](https://messenger/@m.me)
+---
+###### Website / Portfolio:
+ [`william311964.my.canva.site/greeting`](https://william311964.my.canva.site)
+---
+## [`Facebook Messenger`](https://www.google.com)
 ---
 ##### `📚 Currently Learning`
 - Short bullets of topics you’re exploring (courses, libraries, languages, concepts).
  ######
-[`william311964.my.canva.site`/personal](https://william311964.my.canva.site)
-
-
-[`william311964.my.canva.site/personal-copy`](https://william311964.my.canva.site)
-
+[`william311964.my.canva.site`/personal](https://william311964.my.canva.site/@DesignEditing 917)
+---
+[`william311964.my.canva.site/personal-copy`](https://william311964.my.canva.site/@Design Editing 917)
+---
 ##### 
 [`https://gabeandreaproj4.my.canva.site/hello`](https://gabeandreaproj4.my.canva.site)
  ☝️
-
 ---
 #####
   ##### `🤝 How to Work With Me`
@@ -97,5 +94,6 @@ Tip: Pin the repos above on your GitHub profile to make them visible on your mai
 - Quick personal notes: hobbies, side projects, any non-tech passions.
 ---
 Thanks for visiting — this README is a template. Update the placeholders and reorder sections to best reflect your story.
-#### > [**`Github`**](Github.com)
+#### 
+[**`Github`**](Github.com)
 
