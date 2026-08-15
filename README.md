@@ -1,14 +1,14 @@
 # 1.[`PayPal Link`](https://www.sandbox.paypal.com/ncp/payment/VL3A4FJERUPG4).
 ---
-  ## **`git status`**
+  ## [**`git status`**](https://www.google.com)
 ---
 ## 2`🔒willgetstatus`[`designediting.my.canva.site/design`](https://designediting.my.canva.site/design)
 ---
-## **`git status`** 
+## [**`git status`**](www.microsoft.com) 
 ---
 ## 3`🔒willgetstatus`[`designediting.my.canva.site/designmusic`](designediting.my.canva.site/designmusic)
 ---
-## **`git status`**
+## [**`git status`**](www.yahoo.com)
 ---
 ## 4`🔒willget status`[`designediting.my.canva.site/bago`](https://designediting.my.canva.site/bago)
 ---
