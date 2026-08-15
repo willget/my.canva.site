@@ -2,23 +2,16 @@
 
 ## **`git status`**
 
-
-## [`willget status`][🔒[`designediting.my.canva.site/design`](https://designediting.my.canva.site/design)]
-
+## `🔒willgetstatus`[`designediting.my.canva.site/design`](https://designediting.my.canva.site/design)
+`
 
 ## **`git status`** 
 
-   ##   `willget status`
- 
-
-🔒[`[***designediting.my.canva.site/designmusic***`](designediting.my.canva.site/designmusic)
+   ##   `🔒willget status`[`designediting.my.canva.site/designmusic`](designediting.my.canva.site/designmusic)
 
 ## **`git status`**
 
-## `willget status`
-
-
-🔒[`designediting.my.canva.site/bago`](https://designediting.my.canva.site/bago)
+## `🔒willget status`[`designediting.my.canva.site/bago`](https://designediting.my.canva.site/bago)
 
 
 Hi, I'm Will 👋
@@ -27,17 +20,15 @@ Hi, I'm Will 👋
 #####
 I’m a builder who loves solving real problems with thoughtful software. This README is a living profile — meant to showcase who I am, what I build, and how we can work together. Replace the placeholders below with your details to make it yours.
 
-###### 
-
-[`designediting.my.canva.site/bago`](https://designediting.my.canva.site/bago)
+###### _____________________________________[`designediting.my.canva.site/bago`](https://designediting.my.canva.site/bago)
 
 
----
+
 #####
 
  [🔭`My Short BioLink`](Role Freelance Website Design Editor|Product Researcher|Data Researcher)
 
-[``Location``](Lucban,Philippines/4328)
+# [`*Location*`](Lucban,Philippines/4328)
 
 >**Interests**: 
 >
